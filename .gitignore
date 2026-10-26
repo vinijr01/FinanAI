@@ -1,0 +1,17 @@
+# Repositório público de apresentação de produto proprietário
+.env
+.env.*
+*.json
+*.html
+*.js
+*.cjs
+*.mjs
+*.ts
+*.tsx
+*.py
+*.sql
+preview/
+interno/
+__pycache__/
+Thumbs.db
+.DS_Store
